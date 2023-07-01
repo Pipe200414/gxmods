@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "MOD PIPE11",
+    "description": "con este mod vaz a poder ecuchar, sentir, ver etc muchas cosas de Pipe 11",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "Philippe Mizrahi"
     },
     "icons":
     {
@@ -17,40 +17,40 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "music/witherstorm_1.ogg",
+                "music/witherstorm_2.ogg",
+                "music/witherstorm_3.ogg",
+                "music/witherstorm_4.ogg"
             ],
             "browser_sounds":
             {
                 "CLICK":
                 [
-                    "sound/click.mp3"
+                    "sound/click.ogg"
                 ],
                 "FEATURE_SWITCH_OFF":
                 [
-                    "sound/feature_switch_off.mp3"
+                    "sound/feature_switch_off.ogg"
                 ],
                 "FEATURE_SWITCH_ON":
                 [
-                    "sound/feature_switch_on.mp3"
+                    "sound/feature_switch_on.ogg"
                 ],
                 "HOVER":
                 [
-                    "sound/hover.mp3"
+                    "sound/hover.ogg"
                 ],
                 "HOVER_UP":
                 [
-                    "sound/hover.mp3"
+                    "sound/hover.ogg"
                 ],
                 "IMPORTANT_CLICK":
                 [
-                    "sound/important_click.mp3"
+                    "sound/important_click.ogg"
                 ],
                 "LEVEL_UPGRADE":
                 [
-                    "sound/level_upgrade.mp3"
+                    "sound/level_upgrade.ogg"
                 ],
                 "LIMITER_OFF":
                 [
@@ -133,30 +133,30 @@
                 {
                     "gx_accent":
                     {
-                        "h": 85,
+                        "h": 292,
                         "s": 100,
-                        "l": 72
+                        "l": 15
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 64,
-                        "l": 16
+                        "h": 0,
+                        "s": 100,
+                        "l": 0
                     }
                 },
                 "light":
                 {
                     "gx_accent":
                     {
-                        "h": 112,
-                        "s": 80,
-                        "l": 44
+                        "h": 292,
+                        "s": 100,
+                        "l": 15
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 32,
-                        "l": 16
+                        "h": 0,
+                        "s": 100,
+                        "l": 0
                     }
                 }
             },
@@ -164,20 +164,20 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark.png",
-                    "text_color": "#FFFFFF",
-                    "text_shadow": "#757575"
+                    "image": "wallpaper/wither-storm-minecraft.gif",
+                    "text_color": "#000",
+                    "text_shadow": "#42004d"
                 },
                 "light":
                 {
-                    "image": "wallpaper/video.webm",
-                    "first_frame": "wallpaper/first_frame.jpeg",
-                    "text_color": "#FFFFFF",
-                    "text_shadow": "#0B000E"
+                    "image": "wallpaper/wither-storm-minecraft.gif",
+                    "first_frame": "wallpaper/wither-storm-minecraft.gif",
+                    "text_color": "#000",
+                    "text_shadow": "#42004d"
                 }
             }
         },
         "schema_version": 1
     },
-    "version": "1.0"
+    "version": "1.3.7"
 }
